@@ -7,7 +7,7 @@ public class DemoFirstTest {
 	@Test
 	public void demo1()
 	{
-		System.out.println("--demonstration--");
+		System.out.println("--demo demo----");
 	}
 	
 	@Test
